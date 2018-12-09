@@ -55,7 +55,6 @@ function runAction() {
     ]).then(function (answer) {
 
         connection.query("SELECT item_id,price,stock_quantity FROM products WHERE ?", { item_id: answer.itemID }, function (err, res) {
-           
             if (answer.Quantity > res[0].stock_quantity) {
 
                 console.log("Insufficient quantity!");

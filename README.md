@@ -63,6 +63,6 @@ If we see the department table now, we can see the department added as below
 
 Note: Since there were no products in the Pharmacy department category in products1 table, we don’t get the details of the Pharmacy department in the summarized view.
 
-
+![alt text](https://github.com/Pavani-Vithala/bamazon/blob/master/Images/SuperVisor/Supervisor4.png)
 
 

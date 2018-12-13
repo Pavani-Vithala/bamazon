@@ -1,7 +1,7 @@
 # bamazon
 Amazon like app 
 
-The purpose of this app is provide an Amazon like optiosn to users.
+The purpose of this app is provide an Amazon like options to users.
 
 CUSTOMER APP(bamazonCustomer1.js)
 
